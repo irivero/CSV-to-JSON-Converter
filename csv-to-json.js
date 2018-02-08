@@ -1,5 +1,4 @@
-﻿const http = require('https')
-const fs = require('fs')
+﻿const fs = require('fs')
 const path = require('path')
 const uuidv1 = require('uuid/v1')
 const csv = require('csvtojson')
